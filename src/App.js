@@ -78,7 +78,7 @@ const MainContent = () => (
           <a href="https://cagiaad-my.sharepoint.com/:x:/g/personal/braupuducherry_cag_gov_in/EQwU6KzOwalOhwrv_vNZe5cB67GUdhcpguFuQG97BSlX6g?e=HyTBUJ&wdLOR=c008747AB-2CFD-4AF5-96D7-2370E6CC1B36" target="_blank" rel="noopener noreferrer" className="btn btn-primary">View Excel Registers</a>
           <a href="https://cagiaad.sharepoint.com/:u:/s/BOnewspaperclippings/EYVwEBg1GylBghIgh_-22xcBdWnDHTIQ2kuvP041LWgG9w?e=VEj4li" target="_blank" rel="noopener noreferrer" className="btn btn-primary">Media Clippings</a>
           <Magnet>
-            <a href="https://app.powerbi.com/reportEmbed?reportId=8867068b-e052-4c19-8467-ab9b6fe45610&autoAuth=true&ctid=11f913f7-47f1-492f-8558-237196821266" target="_blank" rel="noopener noreferrer" className="btn btn-primary">Register Analytics</a>
+            <a href="https://cagiaad-my.sharepoint.com/:u:/g/personal/braupuducherry_cag_gov_in/ETrR02Zt08dNk3xulqqV-7YB8jPhMVd9fHq3Te-UmG3qxQ?e=5ilfcd" target="_blank" rel="noopener noreferrer" className="btn btn-primary">Register Analytics</a>
           </Magnet>
           <button className="btn btn-outline-secondary" disabled>Innovation Ahead</button>
         </div>
