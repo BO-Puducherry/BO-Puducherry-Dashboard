@@ -1,2 +1,0 @@
- "I have an HTML file hosted on GitHub Pages, specifically on the gh-pages branch. I want to make local
-  edits to this file and push them to update the live page."
